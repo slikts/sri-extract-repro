@@ -1,0 +1,1 @@
+import("./style.js").then(className => console.log(className));
